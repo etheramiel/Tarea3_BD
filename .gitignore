@@ -2,3 +2,4 @@
 *.json
 arxiv-part*
 data/
+venv
